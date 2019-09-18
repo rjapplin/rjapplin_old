@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm Jacob Applin. At the moment, I'm currently hacking my way as a first-year
+economics Ph.D. student at the University of Kentucky. I hold a B.S. in
+Economics with minors in math and history from Murray State University
+(2017; *Summa Cum Laude*) and an MA in Applied Economics with a concentration
+in mathematics from Western Kentucky University (2019) where I was
+the outstanding graduate student of the Gordon Ford College of Business.
