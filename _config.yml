@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jacob Applin's Blog
+title: Random Talk
 email: jacob.applin@uky.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Economics, finance, math, R, and the occasional opinion.
+  Like a random walk, but talk. (Should it be random writing? But that doesn't rhyme with walk!)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rjapplin
