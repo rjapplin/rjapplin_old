@@ -8,7 +8,7 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 
 This is a test for latex. Please work: $$c = \pm\sqrt{a^2 + b^2}$$
 
-This is just a test.
+This is just a test. Test 4 of latex.
 
 Jekyll requires blog post files to be named according to the following format:
 
